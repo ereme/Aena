@@ -1,0 +1,42 @@
+<style>  
+
+body{
+    font-family: 'Century';
+    color: grey;
+    background: url(https://album.es/fotos/uploads/imagenes/thumbs/torre-eiffel-y-aviones-fondo-para-albumes-de-viajes-classic_viajes-21-classic_1200px.jpg) no-repeat center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+
+#boton{
+    background-color:rgb(136, 136, 253); 
+    border: dotted;
+    border-color:  rgb(46, 50, 107);
+    border-radius: 19px 19px 19px 19px;
+    color: blanchedalmond;
+    font-weight: bold;
+    padding: 4px 20px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#boton1{
+    background-color:black; 
+    border-color:  black;
+    color: blanchedalmond;
+    padding: 4px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+</style>
